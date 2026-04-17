@@ -1,48 +1,42 @@
-# 👋 Olá, eu sou a Letícia Dorneles
+# Hi there 👋 I'm Letícia Dorneles
 
-🎯 Quality Assurance (QA)  
-💻 Testes manuais | Automação | APIs  
-🚀 Focada em qualidade e experiência do usuário  
+![QA](https://img.shields.io/badge/💜%20QA%20Junior-17202C)
+![Music](https://img.shields.io/badge/💜%20Music-17202C)
+![Testing](https://img.shields.io/badge/💜%20Testing-17202C)
+![Series](https://img.shields.io/badge/💜%20Series-17202C)
+![Automation](https://img.shields.io/badge/💜%20Automation-17202C)
+![SoftwareTesting](https://img.shields.io/badge/💜%20Software%20Testing-17202C)
 
----
+- 🔍 Focada em **Qualidade de Software (QA)**
+- 💻 Experiência com **testes manuais, exploratórios e automação**
+- 🚀 Desenvolvi de um sistema completo com **Django (caixa, estoque e gestão de clientes)** e fiz alguns projetos
+- 🐞 Experiência em **identificação, documentação e correção de bugs**
+- 📚 Em constante evolução com **boas práticas de testes e automação**
 
-## 🔗 Portfólio
-👉 https://dorneleslet.github.io/
+### 🛠️ Tech & Tools
 
----
+🌐 **Linguagens & Frontend**
 
-## 🧪 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-- Cypress
-- Playwright
-- Postman
-- JavaScript
-- Python / Django
-- Git & GitHub
+👩🏻‍💻 **QA & Testes**
 
----
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=green)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![API Testing](https://img.shields.io/badge/API-17202C?style=flat&logo=postman&logoColor=orange)
+![E2E Testing](https://img.shields.io/badge/E2E-17202C?style=flat&logo=cypress&logoColor=green)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-17202C?style=flat)
 
-## 📌 Projetos em destaque
+⚙️ **Outros**
 
-### ✂️ Sublime Caixa
-Sistema completo de gestão com foco em qualidade, testes e regras de negócio  
-- Testes manuais e exploratórios  
-- Validação de fluxos e regras  
-- Controle de estoque e vendas  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&color=17202C)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-### 🐾 Adopet (Cypress + BDD)
-Automação com Cypress + Cucumber  
-- Gherkin  
-- Testes de login e cadastro  
-
-### 👶 BabyRefil (Playwright)
-Automação E2E  
-- Fluxos completos  
-- Testes de erro e sucesso  
-
----
-
-## 🚀 Sobre mim
-
-Gosto de analisar sistemas, encontrar falhas e melhorar a experiência do usuário.  
-Tenho experiência prática com QA aplicada em projetos reais e estou em constante evolução.
+### 🔗 Portfólio
+👉 https://dorneleslet.github.io/Portfolio/
